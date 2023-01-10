@@ -13,7 +13,7 @@
 # limitations under the License.
 
 '''
-This module creates the main window that constains the full periodic table.
+This module creates the main window that contains the full periodic table.
 It also puts text labels for title, periods, groups and other stuff.
 '''
 
